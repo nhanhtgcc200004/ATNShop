@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nhanhtgcc200004/ATNShop/issues"
   },
-  "homepage": "https://github.com/nhanhtgcc200004/ATNShop#readme"
+  "homepage": "https://github.com/nhanhtgcc200004/ATNShop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
