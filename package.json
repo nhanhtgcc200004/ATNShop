@@ -1,0 +1,19 @@
+{
+  "name": "atnshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhanhtgcc200004/ATNShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhanhtgcc200004/ATNShop/issues"
+  },
+  "homepage": "https://github.com/nhanhtgcc200004/ATNShop#readme"
+}
